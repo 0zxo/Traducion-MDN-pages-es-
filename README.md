@@ -1,4 +1,4 @@
-# Traducion-MDN-pages-es-
+# Traduction-MDN-pages-es-
 organizacion de las paginas que yo tradusco.
 repositorio de prueba para aprender a usar github y contribuir en MDN.
 
