@@ -1,16 +1,50 @@
-<p>MDN es más que un wiki: Es una comunidad de desarrolladores que trabajan unidos para hacer que MDN sea un excelente recurso para todos los desarrolladores que empleen la tecnología del Open Web. El resultado del trabajo puede verse reflejado en MDN, pero la comunidad utiliza los foros de discusión y los chat online como herramientas de trabajo.</p>
+<div class="summary">
+<p>MDN es más que un wiki: Es una comunidad de desarrolladores que trabajan unidos para hacer que MDN sea un excelente recurso para todos los desarrolladores que usen cualquier tecnología de la Open Web.</p>
+</div>
 
-<p>Agradecemos tu ayuda pero si quieres contribuir en MDN, te rogamos que participes también de la comunidad. Aquí te explicamos como estar conectado en tres sencillos pasos:</p>
+<p>Nos gustaria mucho que pudieras contribuir a MDN, pero nos encantaria si además de contribuir participaras en la comunidad de MDN. Aquí te explicamos como en tres sencillos pasos:</p>
 
 <ol>
- <li>Crea una cuenta MDN.</li>
- <li>Suscribete a las discusiones de dev-mdc.</li>
- <li>Accede al IRC.</li>
+ <li><a href="/es/docs/MDN/Contribute/Howto/Crear_cuenta_MDN">Crear cuenta MDN</a>.</li>
+ <li><a href="/en-US/docs/MDN/Community/Conversations">Join in conversations(aun no disponible en español)</a>.</li>
+ <li><a href="/es/docs/Project:MDN/Contribuyendo/Siga_lo_que_está_pasando">Siga lo que está pasando</a>.</li>
 </ol>
 
-<h2 id="Crear_una_cuenta_MDN">Crear una cuenta MDN</h2>
+<h2 id="Como_funciona_la_comunidad">Como funciona la comunidad</h2>
 
-<p>{{page("/es/docs/MDN/Contribute/Howto/Create_an_MDN_account") }}</p>
+<p>Los siguientes articulos describen a la comunidad de MDN.</p>
+
+<div class="row topicpage-table">
+<div class="section">
+<dl>
+ <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Roles">Community roles</a></dt>
+ <dd class="landingPageList">No disponible en español por el momento.</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt>
+ <dd class="landingPageList">No disponible en español por el momento</dd>
+ <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Whats_happening">Follow what's happening</a></dt>
+ <dd class="landingPageList">MDN is brought to you by the <a class="external" href="https://wiki.mozilla.org/MDN">Mozilla Developer Network community</a>. Here are some ways to that we share information about what we're doing.</dd>
+</dl>
+
+<dl>
+</dl>
+</div>
+
+<div class="section">
+<dl>
+ <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Conversations">MDN community conversations</a></dt>
+ <dd class="landingPageList">no disponible en español por el momento</dd>
+ <dt class="landingPageList"><a href="/es/docs/MDN/Contribute/Community">Trabajar con nuestra comunidad</a></dt>
+ <dd class="landingPageList">Una gran parte de contribuir a la documentacion de MDN en cualquier aspecto es saber como trabajar dentro de la comunidad MDN. Este artículo te ofrece tips para ayudarte a aprovechar las interacciones con otros colaboradores y con los equipos de desarrolladores.</dd>
+</dl>
+</div>
+</div>
+
+<p>{{CommunityBox("MDN", "dev-mdc", "mozilla.dev.mdc", "mdn", "Meetings|https://wiki.mozilla.org/MDN/Community_meetings|Every other Wednesday in IRC||Events|https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago|MDN community events", "MozDevNet")}}&nbsp;</p>
+
+
+
+
+
 
 <h2 id="Suscribete_a_las_discusiones_dev-mdc">Suscribete a las discusiones dev-mdc</h2>
 
@@ -62,3 +96,8 @@
  <li><a href="/en-US/docs/Project:MDN/Contributing" title="/en-US/docs/Project:MDN/Contributing">Contribuir con MDN</a>: busca guías aquí para trabajar en MDN y sugerencias de cosas en las que puedes trabajar.</li>
  <li><a href="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening" title="/en-US/docs/Project:MDN/Contributing/Follow_what_s_happening">Sigue lo que está pasando</a>: más formas de ir a la par de MDN y del Compromiso del Desarrollador de Mozilla en general.</li>
 </ul>
+
+
+
+
+
