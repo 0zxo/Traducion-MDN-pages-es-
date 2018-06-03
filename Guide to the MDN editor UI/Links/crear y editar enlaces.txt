@@ -1,123 +1,123 @@
-<p id="Creating_and_editing_links"><span class="seoSummary">Los&nbsp;vinculos (links)&nbsp;son un componente crucial para cualquier wiki,&nbsp;no sólo entre&nbsp;distintas paginas (web)&nbsp;sino también dentro de&nbsp;una misma&nbsp;pagina, y la MDN (Red de desarrollo Mozilla)&nbsp;depende mucho de estos vinculos. Afortunadamente, aunque haya <em>muchas </em>maneras de crear&nbsp;los vinculos, estos son muy faciles de hacer.</span></p>
+<p id="Creating_and_editing_links"><span class="seoSummary">Los&nbsp;vínculos (links)&nbsp;son un componente crucial para cualquier wiki,&nbsp;no sólo entre&nbsp;distintas paginas (web)&nbsp;sino también dentro de&nbsp;una misma&nbsp;página, y la MDN (Red de desarrollo Mozilla)&nbsp;depende mucho de estos vínculos. Afortunadamente, aunque haya <em>muchas </em>maneras de crear&nbsp;los vínculos, estos son muy faciles de hacer.</span></p>
 
 <div class="note">
 <p><strong>Nota:</strong>&nbsp;Toma en cuenta que tenemos &nbsp;<a href="/en-
 
 US/docs/Project:MDN/Style_guide#Links" title="/en-
 
-US/docs/Project:MDN/Style_guide#Links">preferencias en el estilo de los vinculos</a>.&nbsp;(ingles)Éstas se describen en esta pagina y en la<span style="height:1.5">&nbsp;</span><a href="/en-
+US/docs/Project:MDN/Style_guide#Links">preferencias en el estilo de los vínculos</a>&nbsp;(en ingles). Éstas se describen en esta página y en la<span style="height:1.5">&nbsp;</span><a href="/en-
 
 US/docs/Project:MDN/Style_guide" style="line-height: 1.5;" title="/en-
 
-US/docs/Project:MDN/Style_guide">guía de estilo</a>(seccion no disponible en español todavia)<span style="height:1.5">.</span></p>
+US/docs/Project:MDN/Style_guide">guía de estilo</a>&nbsp;(sección no disponible en español todavía)<span style="height:1.5">.</span></p>
 </div>
 
-<h2 id="Usando_la_barra_de_herramientas">Usar la barra de herramientas</h2>
+<h2 id="Usar_la_barra_de_herramientas">Usar la barra de herramientas</h2>
 
-<p>La forma mas obvia de crear un&nbsp;vinculo es hacer clic en el boton "vinculo" en&nbsp;la&nbsp;&nbsp;barra&nbsp; de herramientas, o presionar <kbd>Ctl</kbd> +<kbd>K</kbd>&nbsp;(<kbd>Command</kbd> +<kbd>K</kbd>&nbsp;en MacOs).&nbsp;&nbsp;El boton&nbsp;vinculo se ve asi:&nbsp;<img alt="el boton enlace 
+<p>La forma más obvia de crear un&nbsp;vínculo es hacer clic en el botón "vínculo" en&nbsp;la&nbsp;&nbsp;barra&nbsp; de herramientas, o presionar <kbd>Ctl</kbd> +<kbd>K</kbd>&nbsp;(<kbd>Command</kbd> +<kbd>K</kbd>&nbsp;en MacOs).&nbsp;El botón&nbsp;vinculo se ve así:&nbsp;<img alt="el boton enlace 
 (usado desde 4/mayo/2015)" src="https://mdn.mozillademos.org/files/12003/link-
-button.png" style="height:16px; width:16px" />. Puedes usar esta caracteristica para crear un&nbsp;vinculo desde cero, o para añadir un&nbsp;vinculo a texto ya existente.</p>
+button.png" style="height:16px; width:16px" />. Puedes usar esta característica para crear un&nbsp;vínculo desde cero, o para añadir un&nbsp;vínculo a texto ya existente.</p>
 
-<h3 id="Crear_vinculo_desde_cero">Crear&nbsp;vinculo desde cero</h3>
+<h3 id="Crear_vinculo_desde_cero">Crear&nbsp;vínculo desde cero</h3>
 
-<p>Una vez que hayas hecho clic en el botón vinculo, aparecerá la ventana de edicion de vinculo, como se muestra aqui abajo:</p>
+<p>Una vez que hayas hecho clic en el botón vínculo, aparecerá la ventana de edición de vínculo, como se muestra aquí abajo:</p>
 
 <p><img alt="menu editor cinculos" src="https://mdn.mozillademos.org/files/16003/es.JPG" style="height:329px; width:429px" /></p>
 
-<p>Aqui puedes crear el nuevo vinculo; los campos en esta ventana son:</p>
+<p>Aquí&nbsp;puedes crear el nuevo vínculo; los campos en esta ventana son:</p>
 
 <dl>
- <dt>Tipo de vinculo&nbsp;</dt>
- <dd>Es el tipo de vinculo que vas a crear. El valor por defecto es URL (Localizador uniforme de recursos), la URL es para especificar una direccion web, ya sea en la MDN o en cualquier sitio web externo.<br />
- Tambien puedes elegir las opciones "Referencia en esta pagina" o "E-mail", la opcion "Referencia en esta pagina"&nbsp; te permite crear un vinculo a una referencia (anchor) que hayas insertado anteriormente en la pagina usando el boton <strong>Referencia</strong> <img alt="anchor button" src="https://mdn.mozillademos.org/files/16006/anchor.JPG" style="height:18px; width:25px" />&nbsp;de la barra de herramientas,&nbsp;si no has insertado ninguna referencia te mostrara un mensaje recordandotelo. La opcion E-mail te permite insertar un vinculo <code>mailto:</code> para que el lector pueda enviar un correo (se abre una nueva ventana para el lector) a la direccion de correo electronico que especifiques; tienes la opcion de añadirle titulo y cuerpo. Casi siempre utilizaras la opcion URL.</dd>
- <dt>Busqueda del titulo del articulo / Texto del vinculo</dt>
- <dd>Este campo tiene dos propositos: el primero es permitirte especificar el texto del vinculo si no quieres que se muestre la URL completa; el segundo es buscar articulos en MDN que coincidan con el texto que pongas en este campo, para crear un vinculo a ellos. Por ejemplo, si escribes "JavaScript" en este campo, veras algo como esto:</dd>
+ <dt>Tipo de vínculo&nbsp;</dt>
+ <dd>Es el tipo de vínculo que vas a crear. El valor por defecto es URL (Localizador uniforme de recursos), la URL es para especificar una dirección web, ya sea en la MDN o en cualquier sitio web externo.<br />
+ También puedes elegir las opciones "Referencia en esta página" o "E-mail", la opción "Referencia en esta pagina"&nbsp; te permite crear un vínculo a una referencia&nbsp;que hayas insertado anteriormente en la página usando el botón <strong>Referencia</strong> <img alt="anchor button" src="https://mdn.mozillademos.org/files/16006/anchor.JPG" style="height:18px; width:25px" />&nbsp;(anchor) de la barra de herramientas,&nbsp;si no has insertado ninguna referencia te mostrara un mensaje recordándotelo. La opción E-mail te permite insertar un vinculo <code>mailto:</code> para que el lector pueda enviar un correo (se abre una nueva ventana para el lector) a la dirección de correo electrónico que especifiques; tienes la opción de añadirle titulo y cuerpo. Casi siempre utilizaras la opcion URL.</dd>
+ <dt>Búsqueda del título del artículo / Texto del vínculo</dt>
+ <dd>Este campo tiene dos propósitos: el primero es permitirte especificar el texto del vínculo si no quieres que se muestre la URL completa; el segundo es buscar artículos en MDN que coincidan con el texto que pongas en este campo&nbsp;para crear un vínculo a ellos. Por ejemplo, si escribes "JavaScript" en este campo, veras algo como esto:</dd>
  <dd><img alt="" src="https://mdn.mozillademos.org/files/16005/Rollup
 
 %20menu.JPG" style="height:340px; width:557px" /></dd>
 </dl>
 
 <dl>
- <dd>Aqui puedes ver una lista de titulos de paginas en MDN que incluyen el texto que escribiste. Puedes elegir una de ellas, o seguir escribiendo para encontrar otras opciones. Ten en cuenta que las opciones de la lista indican el idioma ("[es]" en este caso). El texto que indica el idioma "[es]" no aparece en el texto del vinculo; solo aparece para ayudarte a saber que estas creando un vinculo a un articulo de MDN que esta disponible en el mismo idioma que estas editando.</dd>
+ <dd>Aquí&nbsp;puedes ver una lista de títulos de páginas en MDN que incluyen el texto que escribiste. Puedes elegir una de ellas, o seguir escribiendo para encontrar otras opciones. Ten en cuenta que las opciones de la lista indican el idioma ("[es]" en este caso). El texto que indica el idioma "[es]" no aparece en el texto del vínculo; solo aparece para ayudarte a saber que estas creando un vínculo a un articulo de MDN que está&nbsp;disponible en el mismo idioma que estas editando.</dd>
  <dt>Archivos adjuntos</dt>
- <dd>Tambien puedes hacer que el vinculo sea un enlace a algun archivo que se haya adjuntado a la pagina seleccionandolo en la opcion archivos adjuntos. Esta es una excelente manera para compartir codigo fuente (Source code), imagenes, o cualquier otro archivo para que el lector lo descargue.</dd>
+ <dd>También puedes hacer que el vínculo sea un enlace a algún archivo que se haya adjuntado a la página seleccionándolo en la opción: archivos adjuntos. Esta es una excelente manera para compartir código fuente (Source code), imágenes, o cualquier otro archivo para que el lector lo descargue.</dd>
  <dt>URL</dt>
- <dd>Por ultimo, el campo URL te deja escribir directamente (o copiar/pegar) la URL; si elegiste un articulo de MDN en el campo <strong>Busqueda del titulo del articulo / Texto del vinculo</strong> o seleccionaste un archivo en el campo <strong>Archivos adjuntos</strong> se mostrara la URL de estos. Es algo comun copiar y pegar las URLs de otras paginas en MDN que estes revisando, sin embargo el nombre del dominio (https://developer.mozilla.org) se debe borrar ya que no es necesaria (por ejemplo <s>https://developer.mozilla.org</s>/es/docs/MDN/Contribute/Editor).</dd>
+ <dd>Por último, el campo URL te deja escribir directamente (o copiar/pegar) la URL; si elegiste un artículo de MDN en el campo <strong>Búsqueda del título del artículo / Texto del vínculo</strong> o seleccionaste un archivo en el campo <strong>Archivos adjuntos</strong> se mostrará&nbsp;la URL de estos. Es algo común copiar y pegar las URLs de otras páginas en MDN que estés revisando, sin embargo, el nombre del dominio (https://developer.mozilla.org) se debe borrar ya que no es necesaria.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Por ejemplo:&nbsp;<s>https://developer.mozilla.org</s>/es/docs/MDN/Contribute/Editor</dd>
 </dl>
 
-<p>Cuando el vinculo este configurado, has clic en el boton: <img alt="ok button [es]" src="https://mdn.mozillademos.org/files/16007/boton%20aceptar.JPG" style="height:28px; width:70px" />&nbsp;para insertarlo.</p>
+<p>Cuando el vínculo este configurado, haz&nbsp;clic en el botón: <img alt="ok button [es]" src="https://mdn.mozillademos.org/files/16007/boton%20aceptar.JPG" style="height:28px; width:70px" />&nbsp;para insertarlo.</p>
 
 <div class="note">
-<p>Existe una segunda pestaña—<strong>Avanzado</strong>—en la ventana del editor de vinculo. Por el momento, no te aconsejaremos usar alguna&nbsp;de las opciones en esa pestaña. Es posible que en el futuro existan diferentes estilos para los vinculos, pero es probable que se añadan nuevos widgets a la barra de herramientas para usar esas caracteristicas cuando esten disponibles.</p>
+<p>Existe una segunda pestaña—<strong>Avanzado</strong>—en la ventana del editor de vínculo. Por el momento, no te aconsejaremos usar alguna&nbsp;de las opciones en esa pestaña. Es posible que en el futuro existan diferentes estilos para los vínculos, pero es probable que se añadan nuevos widgets a la barra de herramientas para usar esas características cuando estén disponibles.</p>
 </div>
 
 <h3 id="Vincular_texto_existente">Vincular texto existente</h3>
 
-<p>Si hay alguna porcion de texto que quieras convertir a un vinculo, puedes simplificar el proceso un poco. Selecciona la porcion de texto que quieras convertir a un vinculo antes de abrir la ventana del editor de vinculos; esto añadira el texto seleccionado al campo <strong>Busqueda del articulo / Texto del vinculo</strong>. Por ejemplo; digamos que tenemos el siguiente texto</p>
+<p>Si hay alguna porción de texto que quieras convertir a un vínculo, puedes simplificar el proceso un poco. Selecciona la porción de texto que quieras convertir a un vínculo antes de abrir la ventana del editor de vínculos; esto añadirá&nbsp;el texto seleccionado al campo <strong>Búsqueda del articulo / Texto del vinculo</strong>. Por ejemplo; digamos que tenemos el siguiente texto</p>
 
 <blockquote>
 <p>Anita lava la tina JavaScript la tina lava Anita</p>
 </blockquote>
 
-<p>Y nosotros queremos que "JavaScript" sea un vinculo que nos enlace a una página relacionada con JavaScript. Solo selecciona esa palabra y abre el editor de vínculos. Al colocar el cursor sin hacer clic sobre alguna opcion, podras ver su "slug" (parte de la direccion URL que aparece despues del nombre de dominio), el cual te puede dar una mejor idea de donde se localiza el artículo y que tipo de artículo es.</p>
+<p>Y nosotros queremos que "JavaScript" sea un vínculo que nos enlace a una página relacionada con JavaScript. Solo selecciona esa palabra y abre el editor de vínculos. Al colocar el cursor sin hacer clic sobre alguna opción, podrás ver su "slug" (parte de la dirección URL que aparece después del nombre de dominio), el cual te puede dar una mejor idea de donde se localiza el artículo y que tipo de artículo es.</p>
 
 <p><img alt="" src="https://mdn.mozillademos.org/files/16004/slug%20es.jpg" style="height:338px; width:555px" /></p>
 
-<p>Aqui puedes buscar y elegir la opcion que mejor te paresca. Al elegir cualquier opcion (por ejemplo "Acerca de JavaScript [es]") automaticamente se llenara el campo de la ULR y podras simplemente hacer clic en el boton <img alt="ok button [es]" src="https://mdn.mozillademos.org/files/16007/boton%20aceptar.JPG" style="height:29px; width:71px" />&nbsp;y convertir el texto seleccionado en un vinculo, como a continuacion:</p>
+<p>Aquí&nbsp;puedes buscar y elegir la opción que mejor te parezca. Al elegir cualquier opción (por ejemplo "Acerca de JavaScript [es]") automáticamente se llenará&nbsp;el campo de la ULR y podrás simplemente hacer clic en el boton <img alt="ok button [es]" src="https://mdn.mozillademos.org/files/16007/boton%20aceptar.JPG" style="height:29px; width:71px" />&nbsp;y convertir el texto seleccionado en un vínculo, como a continuación:</p>
 
 <blockquote>
 <p>Anita lava la tina <a href="/es/docs/Web/JavaScript/Acerca_de_JavaScript">JavaScript</a>&nbsp;la tina lava Anita.</p>
 </blockquote>
 
-<h2 id="Usar_macros_de_vinculos">Usar macros de vinculos</h2>
+<h2 id="Usar_macros_de_vinculos">Usar macros de vínculos</h2>
 
-<p>MDN utiliza mucho las macros&nbsp;para crear vinculos automaticamente y apropiadamente de un termino, al mismo tiempo que le da el estilo correcto al vinculo deacuerdo con nuestra guia de estilo. Toma en cuenta esto: nuestra guia de estilo indica que los terminos API, los elementos y atributos HTML, las propiedades CSS, el nombre de metodos, y parecidos, se les debe dar el estilo con el elemento: {{HTMLElement("code")}}. Tambien, usualmente, deben ser vinculos que enlacen a la respectiva pagina en MDN</p>
+<p>MDN utiliza mucho las macros&nbsp;para crear vínculos automática&nbsp;y apropiadamente de un término, al mismo tiempo que le da el estilo correcto al vínculo de acuerdo con nuestra guía de estilo. Toma en cuenta esto: nuestra guía de estilo indica que los términos API, los elementos y atributos HTML, las propiedades CSS, el nombre de métodos, y parecidos, se les debe dar el estilo con el elemento: {{HTMLElement("code")}}. También, usualmente, deben ser vínculos que enlacen a la respectiva página en MDN</p>
 
-<p>Toma algo de tiempo acostumbrarse a crear vinculos usando macros, pero tiene varias ventajas:</p>
+<p>Toma algo de tiempo acostumbrarse a crear vínculos usando macros, pero tiene varias ventajas:</p>
 
 <ul>
  <li>Aplica el estilo apropiado por ti.</li>
- <li>Crea el vinculo por ti—y este es aprueba de futuros cambios en la estructura de MDN.</li>
- <li>Tambien puede crear descripciones emergentes (tooltips) para tí.</li>
+ <li>Crea el vínculo por ti—y este es aprueba de futuros cambios en la estructura de MDN.</li>
+ <li>También puede crear descripciones emergentes (tooltips) para ti.</li>
 </ul>
 
-<p>Existen demasiadas macros&nbsp;y nosotros no las veremos todas aqui. En vez de eso, veremos algunos ejemplos de las mas comunes. Para ver la lista completa, mira la seccion "<a href="/en-
+<p>Existen demasiadas macros&nbsp;y nosotros no las veremos todas aquí. En vez de eso, veremos algunos ejemplos de las más comunes. Para ver la lista completa, mira la sección "<a href="/en-
 US/docs/Project:MDN/Contributing/Custom_macros#Creating_hyperlinks" title="/en-
 US/docs/Project:MDN/Contributing/Custom_macros#Creating_hyperlinks">Creating hyperlinks</a>" (no disponible en español actualmente) en nuestra guía <a href="/en-
 US/docs/Project:MDN/Contributing/Custom_macros" title="/en-
-US/docs/Project:MDN/Contributing/Custom_macros">Custom macros for MDN</a>. No cuesta nada revisar el codigo fuente de&nbsp;<a href="/en-
+US/docs/Project:MDN/Contributing/Custom_macros">Custom macros for MDN</a>. No cuesta nada revisar el código fuente de&nbsp;<a href="/en-
 US/docs/Project:Introduction_to_KumaScript" title="/en-
-US/docs/Project:Introduction_to_KumaScript">KumaScript</a>&nbsp;(vinculo no disponible en español) para encontrar cualquier macro; la mayoria de estas tienen comentarios que explican como funcionan y cuales son sus parametros, si es que tiene.</p>
+US/docs/Project:Introduction_to_KumaScript">KumaScript</a>&nbsp;(vinculo no disponible en español) para encontrar cualquier macro; la mayoría de estas tienen comentarios que explican cómo funcionan y cúales son sus parámetros, si es que tiene.</p>
 
-<h3 id="Crear_vinculos_a_la_documentacion_para_APIs">Crear vinculos a la documentacion para APIs.</h3>
+<h3 id="Crear_vinculos_a_la_documentacion_para_APIs.">Crear vinculos a la documentacion para APIs.</h3>
 
-<p>Tenemos un numero de macros que resultan de mucha ayuda para crear vinculos con el estilo apropiado para las APIs. Aqui presentamos algunas de las mas utiles;&nbsp;en cada caso, talvez existan parametros que puedas añadir para tener mas control sobre lo que se va a mostrar (como por ejemplo: evitar que se aplique el estilo del elemento:&nbsp;<code>&lt;code&gt;</code>&nbsp;). Puedes hacer clic en cualquier nombre de macro de las 4 que se enlistan aqui abajo, para leer el codigo fuente de la macro (solo en ingles); todas las macros&nbsp;tienen comentarios al inicio que explican su funcionamiento y cuales son sus&nbsp;parametros.</p>
+<p>Tenemos un numero de macros que resultan de mucha ayuda para crear vínculos con el estilo apropiado para las APIs. Aquí&nbsp;presentamos algunas de las más útiles;&nbsp;en cada caso, tal vez existan parámetros que puedas añadir para tener más control sobre lo que se va a mostrar (por ejemplo: evitar que se aplique el estilo del elemento:&nbsp;<code>&lt;code&gt;</code>&nbsp;). Puedes hacer clic en cualquier nombre de macro de las 4 que se enlistan aquí&nbsp;abajo, para leer el código fuente de la macro (solo en inglés); todas las macros&nbsp;tienen comentarios al inicio que explican su funcionamiento y cuáles son sus&nbsp;parámetros.</p>
 
 <dl>
  <dt>{{TemplateLink("HTMLElement")}}</dt>
- <dd>Inserta el nombre de un elemento HTML, con el vinculo y estilo apropiado. Por ejemplo: <code>\{{HTMLElement("table")}}</code> se convierte en: {{HTMLElement ("table")}}.</dd>
+ <dd>Inserta el nombre de un elemento HTML, con el vínculo y estilo apropiado. Por ejemplo: <code>\{{HTMLElement("table")}}</code> se convierte en: {{HTMLElement ("table")}}.</dd>
  <dt>{{TemplateLink("cssxref")}}</dt>
- <dd>Inserta una propiedad CSS, una regla-at (at = @), o la documentacion de un selector en la referencia CSS. Por ejemplo: <code>\{{cssxref("background- color")}} </code> te da como resultado: {{cssxref("background-color")}}.</dd>
+ <dd>Inserta una propiedad CSS, una regla-at (at = @), o la documentación de un selector en la referencia CSS. Por ejemplo: <code>\{{cssxref("background- color")}} </code> te da como resultado: {{cssxref("background-color")}}.</dd>
  <dt>{{TemplateLink("domxref")}}</dt>
- <dd>Inserta un vinculo hacia la referencia API web de un termino API. Por ejemplo: <code>\{{domxref("window")}}</code> se convierte en: {{domxref ("window")}} y <code>\{{domxref("window.scrollBy()")}}</code> se convierte en: {{domxref ("window.scrollBy()")}}.</dd>
+ <dd>Inserta un vinculo hacia la referencia API web de un término API. Por ejemplo: <code>\{{domxref("window")}}</code> se convierte en: {{domxref ("window")}} y <code>\{{domxref("window.scrollBy()")}}</code> se convierte en: {{domxref ("window.scrollBy()")}}.</dd>
  <dt>{{TemplateLink("SVGElement")}}</dt>
- <dd>Inserta el nombre de un elemento SVG, con el vinculo y estilo correcto. Por ejemplo: <code>\{{SVGElement("circle")}}</code> se convierte en: {{SVGElement ("circle")}}.</dd>
+ <dd>Inserta el nombre de un elemento SVG, con el vínculo y estilo correcto. Por ejemplo: <code>\{{SVGElement("circle")}}</code> se convierte en: {{SVGElement ("circle")}}.</dd>
 </dl>
 
-<h3 id="Crear_vinculo_a_una_seccion_en_el_mismo_articulo">Crear vinculo a una seccion en el mismo articulo</h3>
+<h3 id="Crear_vinculo_a_una_seccion_en_el_mismo_articulo">Crear vínculo a una seccion en el mismo artículo</h3>
 
-<p>Para crear un vinculo que te diriga a una seccion dentro del mismo articulo/pagina, puedes usar la macro: {{TemplateLink("anch")}} La sintaxis es muy clara: <code> \{{anch ("Nombre de la seccion")}}</code>. Por defecto, el texto del vinculo es el titulo de la seccion, pero puedes agregar un segundo parametro (opcional) que sirve para mostrar el texto del segundo parametro en vez del titulo de la seccion. Aqui un ejemplo:</p>
+<p>Para crear un vínculo que te dirija a una sección dentro del mismo artículo/página, puedes usar la macro: {{TemplateLink("anch")}} La sintaxis es muy clara: <code> \{{anch ("Nombre de la seccion")}}</code>. Por defecto, el texto del vínculo es el título de la sección, pero puedes agregar un segundo parámetro (opcional) que sirve para mostrar el texto del segundo parámetro en vez del título de la sección. Aquí un ejemplo:</p>
 
 <ul>
  <li>\{{anch("Usar la barra de herramientas")}} se ve así: {{anch("Usar la barra de herramientas")}}</li>
  <li>\{{anch("Usar la barra de herramientas", "anteriormente")}} se ve así: {{anch("Usar la barra de herramientas", "anteriormente")}}</li>
 </ul>
 
-<h3 id="Crear_vinculos_hacia_bugs">Crear vinculos hacia bugs</h3>
+<h3 id="Crear_vinculos_hacia_bugs">Crear vínculos hacia bugs</h3>
 
-<p>Puedes crear un vinculo a un bug en la base de datos de Mozilla con la macro: {{TemplateLink("bug")}} Esta macro acepta solo un parametro: el numero del bug al cual queremos dirigirnos. Por ejemplo, <code>\{{bug (765642)}}</code> se ve así: {{bug (765642)}}.</p>
+<p>Puedes crear un vínculo a un bug (error)&nbsp;en la base de datos de Mozilla con la macro: {{TemplateLink("bug")}} Esta macro acepta solo un parámetro: el número del bug al cual queremos dirigirnos. Por ejemplo, <code>\{{bug (765642)}}</code> se ve así: {{bug (765642)}}.</p>
 
-<p>Del mismo modo, puedes crear vinculos a bugs de otros navegadores web:</p>
+<p>Del mismo modo, puedes crear vínculos a bugs de otros navegadores web:</p>
 
 <dl>
  <dt>Microsoft Edge</dt>
@@ -128,63 +128,63 @@ US/docs/Project:Introduction_to_KumaScript">KumaScript</a>&nbsp;(vinculo no disp
  <dd>{{TemplateLink("WebkitBug")}}: <code>\{{webkitbug(31277)}}</code> se convierte en {{webkitbug(31277)}}.</dd>
 </dl>
 
-<h3 id="Crear_vinculos_a_RFCs">Crear vinculos a RFCs</h3>
+<h3 id="Crear_vinculos_a_RFCs">Crear vínculos a RFCs</h3>
 
-<p>Mucho de la raiz del funcionamiento de la internet esta documentado en los RFCs (Request For Comments). Puedes facilmente hacer una referencia a un RFCs usando la macro: {{TemplateLink("RFC")}} Por ejemplo, \{{RFC(2616)}} se convierte en: {{RFC (2616)}}. Opcionalmente puedes añadir texto que sirva como texto del vinculo y/o tambien puedes añadir el numero de la seccion dentro del articulo RFC al cual se va a dirigir el vinculo.</p>
+<p>Mucho de la raíz del funcionamiento de la internet está&nbsp;documentado en los RFCs (Request For Comments). Puedes fácilmente hacer una referencia a un RFCs usando la macro: {{TemplateLink("RFC")}} Por ejemplo, \{{RFC(2616)}} se convierte en: {{RFC (2616)}}. Opcionalmente puedes añadir texto que sirva como texto del vínculo y/o también puedes añadir el numero de la sección dentro del articulo RFC al cual se va a dirigir el vínculo.</p>
 
-<h3 id="Crear_vinculo_a_informacion_acerca_de_las_interfaces_XPCOM">Crear vinculo a informacion acerca de las interfaces XPCOM</h3>
+<h3 id="Crear_vinculo_a_informacion_acerca_de_las_interfaces_XPCOM">Crear vínculo a información acerca de las interfaces XPCOM</h3>
 
 <div class="note">
-<p>El staff de MDN ya no se encarga de mantener la documentacion de XPCOM, pero las contribuciones voluntarias son bienvenidas.</p>
+<p>El staff de MDN ya no se encarga de mantener la documentación de XPCOM, pero cualquier&nbsp;contribución&nbsp;voluntaria&nbsp;es&nbsp;bienvenida.</p>
 </div>
 
-<p>Si estas documentando partes internas de Mozilla, la capacidad de crear vinculos a la documentacion de las interfaces XPCOM es de mucha ayuda. Existen algunas macros para esto.</p>
+<p>Si estas documentando partes internas de Mozilla, la capacidad de crear vínculos a la documentación de las interfaces XPCOM es de mucha ayuda. Existen algunas macros para esto.</p>
 
-<p>La sintaxis para crear un vinculo a toda la informacion de una interface es solamente la siguiente: <code>\{{interface("nombre de la interface")}}</code>. Por ejemplo, si escribes:</p>
+<p>La sintaxis para crear un vinculo a toda la información de una interface es solamente la siguiente: <code>\{{interface("nombre de la interface")}}</code>. Por ejemplo, si escribes:</p>
 
 <blockquote>
 <p>Cuando necesites analizar o crear URIs, la interface: \{{interface ("nsIIOService")}} te puede ayudar.</p>
 </blockquote>
 
-<p>El resultado se vera así:</p>
+<p>El resultado se verá&nbsp;así:</p>
 
 <blockquote>
 <p>Cuando necesites analizar o crear URIs, la interface: {{interface ("nsIIOService")}} te puede ayudar.</p>
 </blockquote>
 
-<p>Si necesitas crear un vinculo a la informacion de un metodo o un atributo especifico de una interfaz XPCOM, la macro: {{TemplateLink("ifmethod")}} y la macro: {{TemplateLink("ifattribute")}} son para tí. Estas aceptan como parametros el nombre de la interfaz y el nombre del metodo o atributo al cual quieres referenciar. La macro: {{TemplateLink("ifmethod")}} es particularmente interesante, ya que crea un formato especial que añade los parentesis obligados por la guia de estilo despues del nombre del metodo. Por ejemplo, <code> \{{ifmethod("nsIIOService", "newURI")}}</code> se convierte en {{ifmethod ("nsIIOService", "newURI")}}. Este es uno de los casos en el que eres protegido de posibles cambios futuros en la guia de estilo.</p>
+<p>Si necesitas crear un vínculo a la información de un método o un atributo especifico de una interfaz XPCOM, la macro: {{TemplateLink("ifmethod")}} y la macro: {{TemplateLink("ifattribute")}} son para ti. Estas aceptan como parámetros el nombre de la interfaz y el nombre del método o atributo al cual quieres referenciar. La macro: {{TemplateLink("ifmethod")}} es particularmente interesante, ya que crea un formato especial que añade los paréntesis obligados por la guía de estilo después del nombre del método. Por ejemplo, <code> \{{ifmethod("nsIIOService", "newURI")}}</code> se convierte en {{ifmethod ("nsIIOService", "newURI")}}. Este es uno de los casos en el que eres protegido de posibles cambios futuros en la guía de estilo.</p>
 
-<h3 id="Crear_vinculo_a_la_documentacion_de_las_preferencias_de_Mozilla">Crear vinculo a la documentacion de las preferencias de Mozilla</h3>
+<h3 id="Crear_vinculo_a_la_documentacion_de_las_preferencias_de_Mozilla">Crear vínculo a la documentación de las preferencias de Mozilla</h3>
 
-<p>Para insertar el nombre de una preferencia Mozilla y hacer que se enlace con la pagina que le corresponde en la <a href="/en-
+<p>Para insertar el nombre de una preferencia Mozilla y hacer que se enlace con la página que le corresponde en la <a href="/en-
 
 US/docs/Mozilla/Preferences/Preference_reference" title="/en-
 
-US/docs/Mozilla/Preferences/Preference_reference">Preference reference</a> (no disponilbe en español todavia) usa la macro: {{TemplateLink("pref")}} Esta macro acepta un parametro: el nombre completo de la preferencia al cual quieres enlazar. Por ejemplo,puedes usar esto: <code>\{{pref ("javascript.options.showInConsole")}}</code> para crear esto: {{pref ("javascript.options.showInConsole")}}.</p>
+US/docs/Mozilla/Preferences/Preference_reference">Preference reference</a> (no disponible en español todavía) usa la macro: {{TemplateLink("pref")}} Esta macro acepta un parámetro: el nombre completo de la preferencia al cual quieres enlazar. Por ejemplo, puedes usar esto: <code>\{{pref ("javascript.options.showInConsole")}}</code> para crear esto: {{pref ("javascript.options.showInConsole")}}.</p>
 
 <h3 id="Crear_vinculo_a_un_archivo_de_codigo_fuente_de_Mozilla">Crear vinculo a un archivo de codigo fuente de Mozilla</h3>
 
-<p>Puedes crear vinculos a archivos de codigo fuente de Mozilla (aunque probablemente no lo hagas muy seguido) usando la macro {{TemplateLink ("source")}}. En vez de especificar la URL completa del archivo, puedes simplemente especificar una direccion en la carpeta <code>/source/</code> sin escribir todo lo que le antecede. Por ejemplo: \{{source("browser/Makefile.in")}} crea este vinculo: {{source ("browser/Makefile.in")}} (la direccion completa seria: https://dxr.mozilla.org/mozilla- central/source/browser/Makefile.in).</p>
+<p>Puedes crear vínculos a archivos de código fuente de Mozilla (aunque probablemente no lo hagas muy seguido) usando la macro {{TemplateLink ("source")}}. En vez de especificar la URL completa del archivo, puedes simplemente especificar una dirección en la carpeta <code>/source/</code> sin escribir todo lo que le antecede. Por ejemplo: \{{source("browser/Makefile.in")}} crea este vínculo: {{source ("browser/Makefile.in")}} (la dirección completa seria: https://dxr.mozilla.org/mozilla- central/source/browser/Makefile.in).</p>
 
-<p>Opcionalmente, tambien puedes especificar el texto del vinculo con el que se va a mostrar el vinculo. Por ejemplo, puedes escribir esto: \{{source ("browser/Makefile.in", "el archivo makefile de la carpeta browser")}} para que se muestre esto:: {{source ("browser/Makefile.in", "el archivo makefile de la carpeta browser")}}.</p>
+<p>Opcionalmente, también puedes especificar el texto del vínculo con el que se va a mostrar el vínculo. Por ejemplo, puedes escribir esto: \{{source ("browser/Makefile.in", "el archivo makefile de la carpeta browser")}} para que se muestre esto:: {{source ("browser/Makefile.in", "el archivo makefile de la carpeta browser")}}.</p>
 
 <div class="note">
-<p>Si tienes interes en aprender mas acerca de usar macros, visita las paginas mencionadas en la seccion: {{anch("Usar macros de vinculos")}} y checa nuestra documentacion de <a href="/en-
+<p>Si tienes interés en aprender más acerca de usar macros, visita las paginas mencionadas en la sección: {{anch("Usar macros de vínculos")}} y checa nuestra documentación de <a href="/en-
 
 US/docs/Project:MDN/Kuma/KumaScript_guide" title="/en-
 
-US/docs/Project:MDN/Kuma/KumaScript_guide">KumaScript</a> para aprender mas acerca del propio sistema de macros.</p>
+US/docs/Project:MDN/Kuma/KumaScript_guide">KumaScript</a> para aprender más acerca del propio sistema de macros.</p>
 </div>
 
-<h2 id="Crear_vinculo_a_contenido_recomendado">Crear vinculo a contenido recomendado</h2>
+<h2 id="Crear_vinculo_a_contenido_recomendado">Crear vínculo a contenido recomendado</h2>
 
-<p>Si quieres crear una lista de paginas relacionadas, o de algun otro material de lectura recomendado, puedes hacerlo creando un grupo de "quicklinks" en la barra lateral que se muestra al inicio de la pagina; este mecanismo reemplasa nuestra seccion "vease tambien" que se mostraba al final del articulo. Los detalles acerca de como crear grupos de "quicklinks", visita: <a href="/en-
+<p>Si quieres crear una lista de páginas relacionadas, o de algún otro material de lectura recomendado, puedes hacerlo creando un grupo de "quicklinks" en la barra lateral que se muestra al inicio de la página; este mecanismo reemplaza nuestra sección "véase también" que se mostraba al final del artículo. Los detalles acerca de cómo crear grupos de "quicklinks", visita: <a href="/en-
 
-US/docs/MDN/Contribute/Structures/Quicklinks">Quicklinks</a>(no disponible en español todavia).</p>
+US/docs/MDN/Contribute/Structures/Quicklinks">Quicklinks</a>&nbsp;(no disponible en español todavía).</p>
 
 <h2 id="Esquemas_URL">Esquemas URL</h2>
 
-<p>Por razones de seguridad, solo debes crear vinculos que usen los siguientes esquemas:</p>
+<p>Por razones de seguridad, solo debes crear vínculos que usen los siguientes esquemas:</p>
 
 <ul>
  <li><code>http://</code></li>
@@ -193,10 +193,10 @@ US/docs/MDN/Contribute/Structures/Quicklinks">Quicklinks</a>(no disponible en es
  <li><code>mailto:</code></li>
 </ul>
 
-<p>Tal vez otros esquemas puedan funcionar o no, pero no estan aprobados y probablemente sean eliminados por el staff editorial.</p>
+<p>Tal vez otros esquemas puedan funcionar o no, pero no están aprobados y probablemente sean eliminados por el staff editorial.</p>
 
 <div class="note">
-<p>Esquemas especiales de URL tales como <code>about:</code> y <code>chrome:</code> son usados por Firefox, Google Chrome, y otros navegadores para dar acceso a contenido especial como las preferencias, informacion acerca de debugging, y mas. Esos vinculos no funcionan dentro de los articulos de MDN, por lo tanto no intente crear vinculos usando esos esquemas. Lo mismo aplica para los esquemas: <code>javascript:</code> y <code>jar:</code> que estan bloqueados por la mayoria de los navegadores modernos como medida de precaucion.</p>
+<p>Esquemas especiales de URL tales como <code>about:</code> y <code>chrome:</code> son usados por Firefox, Google Chrome, y otros navegadores para dar acceso a contenido especial como las preferencias, información acerca de debugging, y más. Esos vínculos no funcionan dentro de los artículos de MDN, por lo tanto, no intente crear vínculos usando esos esquemas. Lo mismo aplica para los esquemas: <code>javascript:</code> y <code>jar:</code> que están bloqueados por la mayoría de los navegadores modernos como medida de precaución.</p>
 </div>
 
 <p>{{EditorGuideQuicklinks}}</p>
