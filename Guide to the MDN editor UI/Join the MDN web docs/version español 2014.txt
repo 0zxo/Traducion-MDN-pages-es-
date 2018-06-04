@@ -1,20 +1,20 @@
 <div>{{IncludeSubnav("/es/docs/MDN")}}</div>
 
 <div class="summary">
-<p>MDN es más que un wiki: Es una comunidad de desarrolladores que trabajan unidos para hacer que MDN sea un excelente recurso para todos los desarrolladores que usen cualquier tecnología de la Open Web.</p>
+<p>La documentación de la web de MDN (MDN web docs) es más que un wiki: Es una comunidad de desarrolladores que trabajan unidos para hacer que MDN sea un excelente recurso para todos los desarrolladores que usen cualquier tecnología de la Open Web.</p>
 </div>
 
-<p>Nos gustaria mucho que pudieras contribuir a MDN, pero nos encantaria si además de contribuir participaras en la comunidad de MDN. Aquí te explicamos cómo en tres sencillos pasos:</p>
+<p>Nos gustaría mucho que contribuyeras a MDN, pero nos encantaría si además de contribuir participaras en la comunidad de MDN. Aquí te explicamos cómo ponerte en contacto en tres sencillos pasos:</p>
 
 <ol>
  <li><a href="/es/docs/MDN/Contribute/Howto/Crear_cuenta_MDN">Crear cuenta MDN</a>.</li>
- <li><a href="/en-US/docs/MDN/Community/Conversations">Join in conversations(aun no disponible en español)</a>.</li>
+ <li><a href="/en-US/docs/MDN/Community/Conversations">Join in conversations (aun no disponible en español)</a>.</li>
  <li><a href="/es/docs/Project:MDN/Contribuyendo/Siga_lo_que_está_pasando">Siga lo que está pasando</a>.</li>
 </ol>
 
-<h2 id="Como_funciona_la_comunidad">Como funciona la comunidad</h2>
+<h2 id="Cómo_funciona_la_comunidad">Cómo funciona la comunidad</h2>
 
-<p>Los siguientes articulos describen a la comunidad de MDN.</p>
+<p>Aquí encontraras más artículos que describen a la comunidad de MDN.</p>
 
 <div class="row topicpage-table">
 <div class="section">
@@ -24,7 +24,7 @@
  <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Doc_sprints">Doc sprints</a></dt>
  <dd class="landingPageList">No disponible en español por el momento</dd>
  <dt class="landingPageList"><a href="/es/docs/Project:MDN/Contribuyendo/Siga_lo_que_está_pasando">Siga lo que está pasando</a></dt>
- <dd class="landingPageList">MDN es auspiciado por<a class="external" href="https://wiki.mozilla.org/MDN">La comunidad de la red de desarrolladores de Mozilla</a>. Aqui encontraras algunas maneras por las cuales compartimos información acerca de lo que estamos haciendo.</dd>
+ <dd class="landingPageList">MDN es auspiciado por<a class="external" href="https://wiki.mozilla.org/MDN"> La comunidad de la red de desarrolladores de Mozilla</a>. Aquí encontraras algunas maneras por las cuales compartimos información acerca de lo que estamos haciendo.</dd>
 </dl>
 
 <dl>
@@ -36,17 +36,17 @@
  <dt class="landingPageList"><a href="/en-US/docs/MDN/Community/Conversations">MDN community conversations</a></dt>
  <dd class="landingPageList">no disponible en español por el momento</dd>
  <dt class="landingPageList"><a href="/es/docs/MDN/Contribute/Community">Trabajar con nuestra comunidad</a></dt>
- <dd class="landingPageList">Una gran parte de contribuir a la documentacion de MDN en cualquier aspecto es saber como trabajar dentro de la comunidad MDN. Este artículo te ofrece tips para ayudarte a aprovechar las interacciones con otros colaboradores y con los equipos de desarrolladores.</dd>
+ <dd class="landingPageList">Una gran parte de contribuir a la documentación de MDN en cualquier aspecto es saber cómo trabajar dentro de la comunidad MDN. Este artículo te ofrece tips para ayudarte a aprovechar las interacciones con otros colaboradores y con los equipos de desarrolladores.</dd>
 </dl>
 </div>
 </div>
 
 <div class="overheadIndicator communitybox" dir="ltr">
 <div class="column-container">
-<h2 id="Uneté_a_la_comunidad_MDN">Uneté a la comunidad MDN</h2>
+<h2 id="Uneté_a_la_comunidad_MDN">Únete a la comunidad de MDN</h2>
 
 <div class="column-half">
-<div class="communitysubhead">Escoge tu método preferido para unirte al tema:</div>
+<div class="communitysubhead">Escoge tu método preferido para unirte a la discusión: (todos los vínculos enlazan a páginas en inglés)</div>
 
 <ul class="communitymailinglist">
  <li><a class="external external-icon" href="https://lists.mozilla.org/listinfo/dev-mdc">Lista de e-mail</a></li>
@@ -58,7 +58,7 @@
 <div class="column-half">
 <ul class="communitycontact">
  <li><strong>IRC: </strong><a href="irc://irc.mozilla.org/mdn">#mdn</a> <span class="smaller">(<a class="external external-icon" href="https://wiki.mozilla.org/IRC">Aprender más</a>)</span></li>
- <li><strong>Eventos: </strong><a class="external external-icon" href="https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago">Eventos comunidad MDN </a></li>
+ <li><strong>Eventos: </strong><a class="external external-icon" href="https://www.google.com/calendar/embed?src=mozilla.com_2d35383434313235392d323530%40resource.calendar.google.com&amp;ctz=America/Chicago">Eventos de la comunidad MDN </a></li>
 </ul>
 </div>
 </div>
